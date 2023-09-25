@@ -112,6 +112,8 @@ The TCL commands are used to manage transactions in the database. These are used
  2. <b>ROLLBACK</b>: Command to restore a database to the last committed state. 
 
 
+
+### NOTE: 
 ```
  DDL(Data Definition Language) 
    1. CREATE
